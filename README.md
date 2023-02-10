@@ -1,2 +1,2 @@
 # PySpark
-Repositório para compilar meus estudos de PySpark, utilizando Databricks.
+Repositório para compilar estudos de Spark/PySpark.
